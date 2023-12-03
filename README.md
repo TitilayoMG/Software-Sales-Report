@@ -39,3 +39,4 @@ Power BI concepts like:
 
 ### Data Transformation
 Selected all tables and clicked on transform
+![](TablesChoosen.PNG)
