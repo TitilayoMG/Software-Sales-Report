@@ -7,7 +7,7 @@ This is an analysis of a software company’s sales channels. I analyzed data fr
 
 _Disclaimer_ This is a dataset gotten from Dahel consultants and techies to participate in Power BI challenge 
 
-# Problem Statement
+## Problem Statement
 The analysis should answer the following questions: 
 *	How does revenue compare between the direct and partner sales channels? 
 *	Which channel contributes the most opportunities and revenue?
@@ -25,5 +25,17 @@ The analysis should answer the following questions:
 *	Are there seasonal patterns in opportunity creation and revenue generation for each channel? 
 *	How can the company align sales efforts with these trends
 
-# Data Source
+## Data Source
 The data used for this work is gotten from Dahel Consultants and Techies for Power BI Challenge. I studied the dataset, data dictionary and found the right tables for the analysis.
+
+Power BI concepts like:
+•	Created key performance indicators (KPIs) and other business calculations
+•	Developed general DAX calculations 
+•	Performed advanced DAX calculations for solving statistical measures and other mathematical formulas
+•	Filters
+•	Tooltips
+•	Page buttons
+•	Data Visualization
+
+### Data Transformation
+Selected all tables and clicked on transform
