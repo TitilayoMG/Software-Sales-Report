@@ -32,11 +32,47 @@ Power BI concepts like:
 •	Created key performance indicators (KPIs) and other business calculations
 •	Developed general DAX calculations 
 •	Performed advanced DAX calculations for solving statistical measures and other mathematical formulas
-•	Filters
-•	Tooltips
+•	Understanding of Business Requirements
+•	Performance Optimization
 •	Page buttons
 •	Data Visualization
 
-### Data Transformation
-Selected all tables and clicked on transform
+## Data Transformation
+I imported the file into Power BI then selected all tables and clicked on transform
 ![](TablesChoosen.PNG)
+
+## Data Cleaning
+I tranformed the data in Power Query, checked for Colum quality and converted each column to it appropriate data type.
+* Power Query
+![](DataFormat.PNG)
+
+I closed and apply after all necessary changes
+
+## Data Modelling
+The Star Schema is the 'Fact Table' and other 5 tables were connected to it. PowerBI does this intelligently, automatically creating relationships with them.
+* Model View
+![](AutomatedModel.PNG)
+
+## Data Analysis 
+I began writing several DAX, creating advance measures and calculated columns to get the right metrics for the Software Company's Sales analysis. Several expressions and functions were made to arrive at the desired Key Performance Indicator (KPI). I Translated business requirements into report specifications and optimized the report performance by considering the data volume and using best practices. 
+* DAX
+![](DAX.PNG)
+
+## Data Visualization
+Effective and meaningful visualizations were created using charts, tables and other Power BI visuals. Organizing and arranging visuals were put to play in designing the dashboards for a cohesive view of key performance indicators.
+I arrived at a report with three (3) pages named:
+* Deals
+* Regions
+* Channel Mix
+
+### First Page
+  The first page is named Deals and it contains all information in regards to closed and nonclosed deals with a focus on direct and partner sales channel. The page has a Page Navigation button by the left side. The button is also on other pages for easy access to any page. This page shows the total number of opportunity created, revenue generated, number of closed deals and revenue, average days taken to close a deal and so on
+ * Deals
+![](Deals.PNG)
+
+* Regions
+It shows all the details by region 
+
+* Channel Mix
+
+  
