@@ -4,8 +4,7 @@ This project gain insights into a software company's sales channels, with a focu
 ## Introduction
 This is an analysis of a software company’s sales channels. The analysis is done based on datasets given namely; Account table, fact table, Opportunity table, partner table, Product table and Sales Stage table.
 The goal of this data analytics project is to optimize sales performance, enhance resource allocation, and maximize revenue generation through the direct and partner sales channels.
-
-_Disclaimer_ This is a dataset gotten from Dahel consultants and techies to participate in Power BI challenge 
+ 
 
 ## Problem Statement
 The analysis should answer the following questions: 
@@ -38,7 +37,7 @@ Power BI concepts like:
 *	Data Visualization
 
 ## Data Transformation
-I imported the file into Power BI then selected all tables and clicked on transform
+I imported the file into Power BI then selected all tables and clicked on Transform Data
 ![](TablesChoosen.PNG)
 
 ## Data Cleaning
@@ -51,10 +50,11 @@ I closed and apply after all necessary changes
 ## Data Modelling
 The Star Schema is the 'Fact Table' and other 5 tables were connected to it. PowerBI does this intelligently, automatically creating relationships with them.
 * Model View
+
 ![](AutomatedModel.PNG)
 
 ## Data Analysis 
-I began writing several DAX, creating advance measures and calculated columns to get the right metrics for the Software Company's Sales analysis. Several expressions and functions were made to arrive at the desired Key Performance Indicator (KPI). I Translated business requirements into report specifications and optimized the report performance by considering the data volume and using best practices. 
+I began writing several DAX, creating advance measures and calculated columns to get the right metrics for the Software Company's Sales analysis. Several expressions and functions were made to arrive at the desired Key Performance Indicator (KPI). Translated business requirements into report specifications and optimized the report performance by considering the data volume and using best practices. 
 * DAX
 ![](DAX.PNG)
 
@@ -66,13 +66,23 @@ I arrived at a report with three (3) pages named:
 * Channel Mix
 
 ### First Page
-  The first page is named Deals and it contains all information in regards to closed and nonclosed deals with a focus on direct and partner sales channel. The page has a Page Navigation button by the left side. The button is also on other pages for easy access to any page. This page shows the total number of opportunity created, revenue generated, number of closed deals and revenue, average days taken to close a deal and so on
+The first page is named Deals and it contains all information in regards to closed and nonclosed deals with a focus on direct and partner sales channel. The page has a Page Navigation button by the left side. The button is also on other pages for easy access to any page. This page shows the total number of opportunity created, revenue generated, average days to close a deal and so on
  * Deals
 ![](Deals.PNG)
 
+The second page shows all the details by region in regards to number of opportunities, revenue and opportunity size by both sales channels
 * Regions
-It shows all the details by region 
+![](Region.PNG)
 
+The third page shows top revenue of partners, revenue trend by year and explains the optimal channel mix will lead to higher revenue overall
 * Channel Mix
-
+![](ChannelMix.PNG)
   
+## Analysis
+
+## Recommendation
+
+## Thank you
+I am open for entry-level data anlalyst role.
+
+Let us have discussion about your company and industry now!
