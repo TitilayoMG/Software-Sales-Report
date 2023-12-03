@@ -1,9 +1,9 @@
 # Software-Sales-Report
-This project gain insights into a software company's sales channels, with a focus on the direct and partner sales channels. The analysis aims to provide actionable information to sales managers, enabling them to optimize sales strategies, resource allocation, and revenue generation.
+This project gain insights into a software company's sales channels, with a focus on the direct and partner sales channels. The analysis provides actionable information to sales managers, enabling them to optimize sales strategies, resource allocation, and revenue generation.
 
 ## Introduction
-This is an analysis of a software company’s sales channels. I analyzed data from Account table, fact table, Opportunity table, partner table, Product table and Sales Stage table.
- The goal of this data analytics project is to gain insights into the software company's sales channels, with a focus on the direct and partner sales channels. The analysis aims to provide actionable information to sales managers, enabling them to optimize sales strategies, resource allocation, and revenue generation.
+This is an analysis of a software company’s sales channels. The analysis is done based on datasets given namely; Account table, fact table, Opportunity table, partner table, Product table and Sales Stage table.
+The goal of this data analytics project is to optimize sales performance, enhance resource allocation, and maximize revenue generation through the direct and partner sales channels.
 
 _Disclaimer_ This is a dataset gotten from Dahel consultants and techies to participate in Power BI challenge 
 
@@ -26,16 +26,16 @@ The analysis should answer the following questions:
 *	How can the company align sales efforts with these trends
 
 ## Data Source
-The data used for this work is gotten from Dahel Consultants and Techies for Power BI Challenge. I studied the dataset, data dictionary and found the right tables for the analysis.
+The data used for this work is gotten from Dahel Consultants and Techies for Power BI Challenge. It was the dataset provided to everyone who participate in the challenge and luckily for me, I WON! You can confirm from this linkedin post [LinkedinPost](https://www.linkedin.com/posts/modinatganiyudataanalyst_powerbichampion-grateful-dataanalysis-activity-7111456548857536512-Hd-_?utm_source=share&utm_medium=member_desktop)I studied the dataset, data dictionary and found the right tables for the analysis.
 
 Power BI concepts like:
-•	Created key performance indicators (KPIs) and other business calculations
-•	Developed general DAX calculations 
-•	Performed advanced DAX calculations for solving statistical measures and other mathematical formulas
-•	Understanding of Business Requirements
-•	Performance Optimization
-•	Page buttons
-•	Data Visualization
+*	Created key performance indicators (KPIs) and other business calculations
+*	Developed general DAX calculations 
+*	Performed advanced DAX calculations for solving statistical measures and other mathematical formulas
+*	Understanding of Business Requirements
+*	Performance Optimization
+*	Page buttons
+*	Data Visualization
 
 ## Data Transformation
 I imported the file into Power BI then selected all tables and clicked on transform
