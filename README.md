@@ -1,6 +1,8 @@
 # Software-Sales-Report
 This project gain insights into a software company's sales channels, with a focus on the direct and partner sales channels. The analysis provides actionable information to sales managers, enabling them to optimize sales strategies, resource allocation, and revenue generation.
 
+![](dataanalytics.avif)
+
 ## Introduction
 This is an analysis of a software company’s sales channels. The analysis is done based on datasets given namely; Account table, fact table, Opportunity table, partner table, Product table and Sales Stage table.
 
@@ -98,7 +100,7 @@ The third page shows top revenue of partners, revenue trend by year and explains
 * Result shows that customers are willing to pay at the begining of the year so, company should align sales efforts with the period to increase sales.
 
 
-## Thank you for reading
-I am open for entry-level data anlalyst role.
+## Thank you for reading!
+I am open for data analyst role.
 
 Let us have discussion about your company and industry now!
