@@ -1,5 +1,5 @@
 # Software-Sales-Report
-This project gain insights into a software company's sales channels, with a focus on the direct and partner sales channels. The analysis provides actionable information to sales managers, enabling them to optimize sales strategies, resource allocation, and revenue generation.
+This project gain insights into a software company's sales channels, with a focus on the direct and partner sales channels. The analysis provides actionable information to sales managers, enabling them to optimize sales strategies, resource allocation, and revenue generation.(The picture below is gotten from freepiks website)
 
 ![](dataanalytics.avif)
 
@@ -101,6 +101,6 @@ The third page shows top revenue of partners, revenue trend by year and explains
 
 
 ## Thank you for reading!
-I am open for data analyst role.
+I am open for data roles.
 
 Let us have discussion about your company and industry now!
