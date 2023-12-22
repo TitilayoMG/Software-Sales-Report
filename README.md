@@ -3,6 +3,7 @@ This project gain insights into a software company's sales channels, with a focu
 
 ![](dataanalytics.avif)
 
+
 ## Introduction
 This is an analysis of a software company’s sales channels. The analysis is done based on datasets given namely; Account table, fact table, Opportunity table, partner table, Product table and Sales Stage table.
 
@@ -43,14 +44,14 @@ Power BI concepts like:
 I imported the file into Power BI then selected all tables and clicked on Transform Data
 ![](TablesChoosen.PNG)
 
-## Data Cleaning
+### Data Cleaning
 I tranformed the data in Power Query, checked for Colum quality and converted each column to it appropriate data type.
 * Power Query
 ![](DataFormat.PNG)
 
 I closed and apply after all necessary changes
 
-## Data Modelling
+### Data Modelling
 The Star Schema is the 'Fact Table' and other 5 tables were connected to it. PowerBI does this intelligently, automatically creating relationships with them.
 * Model View
 
